@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "usmca-poc-client-side-solution",
+    "id": "dd81b399-1bf0-4d1b-a02a-90bbf3fa3ae2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/usmca-poc.sppkg"
+  }
+}
